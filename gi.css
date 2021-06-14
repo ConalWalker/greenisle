@@ -263,4 +263,4 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 }
 .dropdown-content a:hover {background-color: #000000;}
 .dropdown:hover .dropdown-content {display: block;}
-.dropdown:hover .dropbtn {background-color: #CCCCCC;}
+.dropdown:hover .dropbtn {background-color: #CCCCCC; color: black}
